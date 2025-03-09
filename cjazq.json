@@ -28,6 +28,27 @@
         "describe": "用于辅助yunzai图库使用"
     },
     {
+        "pathname": "mcsmanager-plugin",
+        "pluginname": "Mcsmanager管理插件(mcsmanager-plugin)",
+        "url": "https://github.com/A1Panda/mcsmanager-plugin",
+        "author": "@A1_Panda",
+        "describe": "基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能"
+    },
+    {
+        "pathname": "Bxianx-plugin",
+        "pluginname": "不羡仙插件(Bxianx-plugin)",
+        "url": "https://github.com/bxianxo/bxianx-plugin",
+        "author": "@庆",
+        "describe": "网络查询工具，多类API远程查询控制功能"
+    },
+    {
+        "pathname": "juhkff-plugin",
+        "pluginname": "综合插件 (juhkff-plugin)",
+        "url": "https://github.com/juhkff/juhkff-plugin",
+        "author": "@扎克芙芙",
+        "describe": "主动回复群聊、表情偷取、日报推送等综合功能插件"
+    },
+    {
         "pathname": "yunzai-yt-dl-plugin",
         "pluginname": "YouTube/油管视频下载插件(yunzai-yt-dl-plugin)",
         "url": "https://github.com/GangFaDeShenMe/yunzai-yt-dl-plugin",
@@ -50,10 +71,10 @@
     },
     {
         "pathname": "meme-plugin",
-        "pluginname": "清语表情(memen)",
+        "pluginname": "清语表情插件(memen)",
         "url": "https://github.com/ClarityJS/meme-plugin",
-        "author": "@shiwuliya@MapleLeaf",
-        "describe": "一个Yunzai-Bot V3插件,表情包合成"
+        "author": "@ClarityJS",
+        "describe": "清语表情， 一个Yunzai-Bot V3插件,表情包合成"
     },
     {
         "pathname": "steam-plugin",
