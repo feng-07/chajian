@@ -28,11 +28,18 @@
         "describe": "用于辅助yunzai图库使用"
     },
     {
+        "pathname": "mysMap",
+        "pluginname": "原神地图插件(mysMap)",
+        "url": "https://github.com/zzwh12/mysMap",
+        "author": "@zzwh12",
+        "describe": "基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能"
+    },
+    {
         "pathname": "mcsmanager-plugin",
         "pluginname": "Mcsmanager管理插件(mcsmanager-plugin)",
         "url": "https://github.com/A1Panda/mcsmanager-plugin",
         "author": "@A1_Panda",
-        "describe": "基于 Yunzai-Bot v3 的 MCSManager 服务器管理插件，提供完整的远程控制和监控功能"
+        "describe": "全新提瓦特地图资源查询"
     },
     {
         "pathname": "Bxianx-plugin",
