@@ -28,6 +28,13 @@
         "describe": "用于辅助yunzai图库使用"
     },
     {
+        "pathname": "Bili-Plugin",
+        "pluginname": "B站插件(Bili-Plugin)",
+        "url": "https://gitee.com/nennen-cn/Bili-Plugin",
+        "author": "@NenNen_CN",
+        "describe": "支持B站账号管理/签到/直播监听/QQBot等功能"
+    },
+    {
         "pathname": "mysMap",
         "pluginname": "原神地图插件(mysMap)",
         "url": "https://github.com/zzwh12/mysMap",
