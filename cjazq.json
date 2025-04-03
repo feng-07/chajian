@@ -28,6 +28,13 @@
         "describe": "用于辅助yunzai图库使用"
     },
     {
+        "pathname": "NapCat-Plugin",
+        "pluginname": "NapCat插件(NapCat_Plugin)",
+        "url": "https://github.com/A1Panda/Napcat_Plugin",
+        "author": "@A1Panda",
+        "describe": "一个基于YunzaiBot的Napcat管理插件"
+    },
+    {
         "pathname": "Bili-Plugin",
         "pluginname": "B站插件(Bili-Plugin)",
         "url": "https://github.com/miltrbefr/Bili-Plugin",
