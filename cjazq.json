@@ -92,7 +92,7 @@
     },
     {
         "pathname": "meme-plugin",
-        "pluginname": "清语表情插件(memen-plugin)",
+        "pluginname": "清语表情插件(meme-plugin)",
         "url": "https://github.com/ClarityJS/meme-plugin",
         "author": "@ClarityJS",
         "describe": "清语表情， 一个Yunzai-Bot V3插件,表情包合成"
@@ -240,7 +240,7 @@
     {
         "pathname": "liangshi-calc",
         "pluginname": "梁氏插件(liangshi-calc)",
-        "url": "https://gitee.com/liangshi233/liangshi-calc",
+        "url": "https://github.com/liangshi233/liangshi-calc",
         "author": "@liangshi",
         "describe": "miao-plugin的面板拓展插件"
     },
