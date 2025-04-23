@@ -28,6 +28,13 @@
         "describe": "用于辅助yunzai图库使用"
     },
     {
+        "pathname": "Packet-plugin",
+        "pluginname": "NapCat发包插件(Packet-plugin)",
+        "url": "https://gitee.com/HDTianRu/Packet-plugin",
+        "author": "@HDTianRu",
+        "describe": "云崽使用napcat发包插件"
+    },
+    {
         "pathname": "NapCat-Plugin",
         "pluginname": "NapCat插件(NapCat_Plugin)",
         "url": "https://github.com/A1Panda/Napcat_Plugin",
